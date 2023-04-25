@@ -11,7 +11,7 @@ We're committed to open source. You'll find all of our code in public repositori
 
 ## ❤️ Contributing
 
-We welcome all contributions. Please read our contributing guidelines in each repository before submitting a pull request.
+We welcome useful contributions. Please read our contributing guidelines in each repository before submitting a pull request.
 
 ## 📜 License
 
